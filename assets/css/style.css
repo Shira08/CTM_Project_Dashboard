@@ -1131,3 +1131,10 @@ h1, h2, h3, h4, h5, h6 {
 {
   font-size: 12px;
 }
+.arobase
+{
+  border-bottom-right-radius: 8px !important;
+  border-top-right-radius: 8px !important;
+  border-bottom-left-radius: 0px !important;
+  border-top-left-radius: 0px !important;
+}
